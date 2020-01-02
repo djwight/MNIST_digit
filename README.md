@@ -17,10 +17,13 @@ Raw data is seperated in training and testing csv files found in the raw dir.
 
 ### Building the model
 **Data preperation**
+
 Data was prepared and normalized in **MNIST_digits_dataprep.ipynb**. Data was out put to data/interim/
 
 **tSNE**
+
 tSNE model was applied to a subset of the data in **tSNE_cluster_MNISTdigits.ipynb** for testing whether clustering could be applied post tSNE.
 
 **Deep learning network**
+
 A deep learning network was set up with TensorFlow, through Keras.
