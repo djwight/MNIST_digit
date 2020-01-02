@@ -3,7 +3,8 @@ Building a digit recognition pipeline for the MNIST data set of written digits. 
 
 ### Installation
 
-Complete python dependancies are found in > requirements.txt
+Complete python dependancies are found in
+> requirements.txt
 Code for the analysis is found in > notebooks/
 
 
