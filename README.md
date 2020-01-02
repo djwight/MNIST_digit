@@ -5,13 +5,16 @@ Building a digit recognition pipeline for the MNIST data set of written digits. 
 
 Complete python dependancies are found in
 > requirements.txt
-Code for the analysis is found in > notebooks/
+
+Code for the analysis is found in
+> notebooks/
 
 
 ### Data structure
 Data is stored in a file system as detailed below:
 
 > data/raw
+
 > data/interim
 
 Raw data is seperated in training and testing csv files found in the raw dir.
